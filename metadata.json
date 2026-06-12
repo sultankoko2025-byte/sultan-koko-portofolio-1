@@ -1,0 +1,8 @@
+{
+  "name": "Remix: sultan koko",
+  "description": "Portfolio website for sultan koko, showcasing Children\u0027s Book Illustrations, Character Design, Storyboards, and creative design work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
